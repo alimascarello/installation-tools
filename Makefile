@@ -1,5 +1,5 @@
 .PHONY: install
 
 install:
-	chmod +x install-tools.sh
+	chmod +x run.sh
 	./run.sh
